@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fartapp.co.android",
+    "sha256_cert_fingerprints":
+    ["0E:B8:23:4E:08:7A:C4:13:41:E8:5A:6D:E8:F6:C5:13:21:71:EC:87:C6:DB:99:37:01:DD:EE:29:A8:85:46:B4"]
+  }
+}]
