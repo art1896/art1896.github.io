@@ -4,6 +4,8 @@
     "namespace": "android_app",
     "package_name": "fartapp.co.android",
     "sha256_cert_fingerprints":
-    ["BA:49:D2:14:2A:68:BB:AC:DF:7B:9F:AA:4D:2A:BE:A3:35:5F:CD:B0:62:C5:38:9E:8E:39:E8:29:50:81:10:23"]
+    [ "0E:B8:23:4E:08:7A:C4:13:41:E8:5A:6D:E8:F6:C5:13:21:71:EC:87:C6:DB:99:37:01:DD:EE:29:A8:85:46:B4",
+      "BA:49:D2:14:2A:68:BB:AC:DF:7B:9F:AA:4D:2A:BE:A3:35:5F:CD:B0:62:C5:38:9E:8E:39:E8:29:50:81:10:23"
+    ]
   }
 }]
